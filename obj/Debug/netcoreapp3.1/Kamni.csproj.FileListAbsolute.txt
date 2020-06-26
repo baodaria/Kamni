@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\Kamni\Kamni\bin\Debug\netcoreapp3.1\Kamni.exe
+C:\Users\Home\source\repos\Kamni\Kamni\bin\Debug\netcoreapp3.1\Kamni.deps.json
+C:\Users\Home\source\repos\Kamni\Kamni\bin\Debug\netcoreapp3.1\Kamni.runtimeconfig.json
+C:\Users\Home\source\repos\Kamni\Kamni\bin\Debug\netcoreapp3.1\Kamni.runtimeconfig.dev.json
+C:\Users\Home\source\repos\Kamni\Kamni\bin\Debug\netcoreapp3.1\Kamni.dll
+C:\Users\Home\source\repos\Kamni\Kamni\bin\Debug\netcoreapp3.1\Kamni.pdb
+C:\Users\Home\source\repos\Kamni\Kamni\obj\Debug\netcoreapp3.1\Kamni.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Kamni\Kamni\obj\Debug\netcoreapp3.1\Kamni.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Kamni\Kamni\obj\Debug\netcoreapp3.1\Kamni.AssemblyInfo.cs
+C:\Users\Home\source\repos\Kamni\Kamni\obj\Debug\netcoreapp3.1\Kamni.dll
+C:\Users\Home\source\repos\Kamni\Kamni\obj\Debug\netcoreapp3.1\Kamni.pdb
